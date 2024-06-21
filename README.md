@@ -33,4 +33,10 @@ Software: AutoDesk Fusion 360
 ![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/4aaf8c31-5915-4811-a63e-1991191b3124)
 
 - `From here, you can insert an image into canvas to trace an image, or create your own!`
+- `Next, create a new sketch and select the canvas art`
 ![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/facda58c-9e73-4a70-b2c3-5bf7ae4ca148)
+![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/dd95c607-9b52-492c-9848-e88a4d34430e)
+
+-`Use the tools (in this case, spline and line) to trace around your image`
+![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/13b6ad5c-d443-4af2-a762-cf6257f3555a)
+
