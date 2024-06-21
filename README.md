@@ -20,7 +20,7 @@ Software: AutoDesk Fusion 360
 </a>
 </p>
 
--`Create a rectangle (r) with portal desired dimensions and extrude (e) it`
+- `Create a rectangle (r) with portal desired dimensions and extrude (e) it`
 
 <p align="left">
 <a>
@@ -29,5 +29,8 @@ Software: AutoDesk Fusion 360
 </a>
 </p>
 
--`Select the top layer of the rectangle, then right click--> create sketch`
+- `Select the top layer of the rectangle, then right click--> create sketch`
 ![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/4aaf8c31-5915-4811-a63e-1991191b3124)
+
+- `From here, you can insert an image into canvas to trace an image, or create your own!`
+![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/facda58c-9e73-4a70-b2c3-5bf7ae4ca148)
