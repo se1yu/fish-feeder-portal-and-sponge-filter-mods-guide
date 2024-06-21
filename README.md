@@ -20,3 +20,12 @@ Software: AutoDesk Fusion 360
 </a>
 </p>
 
+-`Create a rectangle (r) with portal desired dimensions and extrude (e) it`
+![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/fe58eb22-e219-4db6-bf00-6f1c18aa33cb)
+<p align="left">
+<a>
+<img src="https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/fe58eb22-e219-4db6-bf00-6f1c18aa33cb" width="500">
+<img src="https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/a6ba36d3-ae68-400f-a261-0de0d3bc7468" width="500">
+</a>
+</p>
+
