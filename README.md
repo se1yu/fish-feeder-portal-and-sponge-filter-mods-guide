@@ -29,3 +29,5 @@ Software: AutoDesk Fusion 360
 </a>
 </p>
 
+-`Select the top layer of the rectangle, then right click--> create sketch`
+![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/4aaf8c31-5915-4811-a63e-1991191b3124)
