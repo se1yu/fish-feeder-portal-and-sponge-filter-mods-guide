@@ -37,6 +37,7 @@ Software: AutoDesk Fusion 360
 ![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/facda58c-9e73-4a70-b2c3-5bf7ae4ca148)
 ![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/dd95c607-9b52-492c-9848-e88a4d34430e)
 
--`Use the tools (in this case, spline and line) to trace around your image`
-![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/13b6ad5c-d443-4af2-a762-cf6257f3555a)
+-`Use the tools (in this case, spline and line) to trace around your image. Only trace a single line the entire image around. The image needs to have all outlines fully connected.`
+![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/13b6ad5c-d443-4af2-a762-cf6257f3555a) 
+![image](https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/09f23671-e437-4c7d-99bb-b3e0ebf43106)
 
