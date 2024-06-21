@@ -12,4 +12,10 @@ Make a 3d printed fishing portal! [inspiration](https://fishportals.com/collecti
 
 # Software and Setup
 Software: AutoDesk Fusion 360
+<p align="left">
+<a>
+<img src="https://github.com/se1yu/3d-fish-feeder-portal-tutorial/assets/121521414/675a4242-9ffd-4be5-b2c0-3548ee8e3f80" width="300">
+</a>
+</p>
+
 
