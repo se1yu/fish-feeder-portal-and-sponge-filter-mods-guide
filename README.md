@@ -1,2 +1,2 @@
-# cat-fish-feeder-portal
-Making a 3d printed fishing portal! (inspired by https://fishportals.com/collections/fish-portals)
+# cat-fish-feeder-portal 🐈🐟🫧
+Making a 3d printed fishing portal! [inspiration](https://fishportals.com/collections/fish-portals)
